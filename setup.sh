@@ -40,7 +40,9 @@ akbarvpnnnnnnnn="raw.githubusercontent.com/givpn/nogod/master/backup"
 akbarvpnnnnnnnnn="raw.githubusercontent.com/givpn/nogod/master/websocket"
 # Link Hosting Kalian Untuk Ohp
 akbarvpnnnnnnnnnn="raw.githubusercontent.com/givpn/nogod/master/ohp"
-
+# Getting
+MYIP=$(wget -qO- ipv4.icanhazip.com);
+echo "Checking VPS"
 clear
 if [ -f "/etc/xray/domain" ]; then
 echo "Script Already Installed"
