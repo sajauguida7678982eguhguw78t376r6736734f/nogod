@@ -8,16 +8,6 @@ wh="\033[0m"
 # Getting
 MYIP=$(wget -qO- ipv4.icanhazip.com);
 echo "Checking VPS"
-IZIN=$( curl https://raw.githubusercontent.com/givpn/izin/master/nogod.txt | grep $MYIP )
-if [ $MYIP = $IZIN ]; then
-echo -e "${NC}${GREEN}Permission Accepted...${NC}"
-else
-echo -e "${NC}${RED}Permission Denied!${NC}";
-echo -e "${NC}${LIGHT}Please Contact Admin!!"
-echo -e "${NC}${LIGHT}Telegram : https://t.me/givpn"
-sleep 60
-exit 0
-fi
 clear
 echo -e "$y=================================================================$wh"
 echo -e "$y      ___                                    ___         ___     $wh"
