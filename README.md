@@ -124,7 +124,7 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 
 • White Label
 
-# Daftar IP
+# Contact
 [Telegram](https://t.me/givpn)
 
 # Donation Thanks for your support me
