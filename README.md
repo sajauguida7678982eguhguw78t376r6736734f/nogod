@@ -5,6 +5,12 @@
 </p>
 </div>
 
+### Os Supported
+
+• Debian 10 Only
+
+• Ubuntu 18.04 & 20.04 Only
+
 ### Command Install
 
 ```
@@ -41,12 +47,6 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 • Backup Data ALL Service
 
 • Restore Data ALL Service
-
-### Os Supported
-
-• Debian 10 Only
-
-• Ubuntu 18.04 & 20.04 Only
 
 # Service & Port
 
@@ -119,10 +119,6 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 • Autoreboot On 05.00 GMT +7
 
 • Futo Delete Expired Account
-
-• Full Orders For Various Services
-
-• White Label
 
 # Contact
 [![Telegram](https://raw.githubusercontent.com/givpn/givpn/main/chat.png)](https://t.me/givpn/)
