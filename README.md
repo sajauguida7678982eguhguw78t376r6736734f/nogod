@@ -7,9 +7,9 @@
 
 ### Os Supported
 
-• Debian 10 Only
+• Debian 9 & 10
 
-• Ubuntu 18.04 & 20.04 Only
+• Ubuntu 18.04 & 20.04
 
 ### Command Install
 
