@@ -129,6 +129,9 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 [![Telegram](https://raw.githubusercontent.com/givpn/givpn/main/grup.png)](https://t.me/givpn_grup/)
 
 # Donation Thanks for your support me
+**Donate with ko-fi**
 [![Ko-fi donate button](https://raw.githubusercontent.com/givpn/givpn/main/ko-fi-donate.png)](https://ko-fi.com/givpn11)
+**Donate with Paypal**
 [![PayPal donate button](https://raw.githubusercontent.com/givpn/givpn/main/paypal-donate.png)](https://paypal.me/givpn11)
+**LICENSE**
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
