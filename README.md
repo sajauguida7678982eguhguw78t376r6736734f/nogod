@@ -125,7 +125,7 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 • White Label
 
 # Contact
-[Telegram](https://t.me/givpn)
+[![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/givpn/)
 
 # Donation Thanks for your support me
 [![Ko-fi donate button](https://raw.githubusercontent.com/givpn/givpn/main/ko-fi-donate.png)](https://ko-fi.com/givpn11)
