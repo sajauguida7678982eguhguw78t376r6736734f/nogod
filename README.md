@@ -125,7 +125,7 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 • White Label
 
 # Contact
-[![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/givpn/)
+[![Telegram](https://raw.githubusercontent.com/givpn/givpn/main/chat.png)](https://t.me/givpn/)
 [![Telegram](https://raw.githubusercontent.com/givpn/givpn/main/grup.png)](https://t.me/givpn_grup/)
 
 # Donation Thanks for your support me
